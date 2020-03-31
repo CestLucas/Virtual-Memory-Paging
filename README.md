@@ -1,4 +1,5 @@
-Virtual Memory -- Paging
+Virtual Memory -- Paging (in C)
+
 Requirements
 You are required to implement the below interface function in 473_mm.c (defined in 473_mm.h):
 void mm_init(void* vm, int vm_size , int n_frames, int page_size, int policy);
